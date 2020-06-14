@@ -1,0 +1,7 @@
+account spectre and api
+user = jehu09cr@gmail.com
+pass = Mn123456
+Name app = Testing_JV
+App id = bc795c5d5a7631e0c5eb9b7dd5462dd1
+App key = 681015719d02bc4416f14a87f667a5
+code: 05ff88c10e66dd351b3e67f8bf53a80e9f7213b0
